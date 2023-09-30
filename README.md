@@ -1,2 +1,2 @@
-# tkinder
-Uso de tkinder - Python
+# Tkinter
+Uso de tkinter - Python
